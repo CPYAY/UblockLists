@@ -5,10 +5,9 @@
 ! Homepage: https://github.com/CPYAY/UblockLists/
 # Last Update: 1/29/2023 10:38 AM EDT
 ###########################################################################################
-! Expires: 1 day
-! Description: 
 
-! Major Advertising
+
+# Major Advertising
 ||360.cn^
 ||360yield.com^
 ||3gl.net^
@@ -272,7 +271,7 @@
 ||ad2games-adserver-production.eu-west-1.elasticbeanstalk.com^
 ||ad2games-adserver-production.us-west-2.elasticbeanstalk.com^
 
-!Tracking Plus
+#Tracking Plus
 ||sessions.bugsnag.com^
 ||pixel.mintigo.com^
 ||2020mustang.com^
@@ -287,7 +286,7 @@
 ||zdassets.com/ekr/snippet.js
 ||glizauvo.net^
 
-!Phishing Sites
+#Phishing Sites
 ||wholedirty.top^
 ||calify.top^
 ||mincogemeci.tk^
@@ -297,7 +296,7 @@
 ||nxcli.io^
 ||wcomhost.com^
 
-!Govv
+#Govv
 ||bgl1dr1-a-fixed.sancharnet.in^
 ||bgl1pp1-a-fixed.sancharnet.in^
 ||bj02.cww.com^
@@ -407,7 +406,7 @@
 ||www21.counsellor.gov.cn^
 ||www21.counsellor.gov.cn^
 
-!Misc
+#Misc
 ||aggressivechristianity.net^
 ||19justinbrown88.yolasite.com^
 ||americansfortruth.org^
