@@ -1,8 +1,12 @@
-[Adblock Plus 2.0]
-####################BlockListBooster#######################
-! Title: Booster
-! Expires: 1 day
+###########################################################################################
+! Title: Booster List
+! Expires: 1 days
 ! Description: Add on for normal blocklist. Focused on advertising & trackers
+! Homepage: https://github.com/CPYAY/UblockLists/
+# Last Update: 1/29/2023 10:38 AM EDT
+###########################################################################################
+! Expires: 1 day
+! Description: 
 
 ! Major Advertising
 ||360.cn^
