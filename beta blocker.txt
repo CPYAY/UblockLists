@@ -8,14 +8,6 @@
 #CDNs Allow (Streaming)
 @@||bunnycdn.*
 
-
-#Tracking URLs
-*$removeparam=utm_source
-*$removeparam=utm_medium
-*$removeparam=utm_campaign
-*$removeparam=utm_content
-*$removeparam=utm_term
-
 #Common tracking endpoints
 /wf/open^$all
 /track/open.php^$all
