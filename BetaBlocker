@@ -22,23 +22,23 @@
 /o.gif^$image
 
 #pixels
-bl-1.com^$all
-nytimes.com/pixel^$image
-open.convertkit*.com^$image
-t.signauxtrois.com^$all
-t.sidekickopen77.com^$all
-t.yesware.com^$all
-track.mixmax.com^$all
-email.mixmax.com^$all
-mailfoogae.appspot.com^$all
-nethunt.com/api/v1/track/email^$all
-toutapp.com^$all
-r.superhuman.com^$all
-outrch.com/api/mailings/opened^$all
-close.io/email_opened^$all
-mailstat.us/tr^$all
-emltrk.com^$image
-via.intercom-mail-.com/o^$all
+||bl-1.com^$all
+||nytimes.com/pixel^$image
+||open.convertkit*.com^$image
+||t.signauxtrois.com^$all
+||t.sidekickopen77.com^$all
+||t.yesware.com^$all
+||track.mixmax.com^$all
+||email.mixmax.com^$all
+||mailfoogae.appspot.com^$all
+||nethunt.com/api/v1/track/email^$all
+||toutapp.com^$all
+||r.superhuman.com^$all
+||outrch.com/api/mailings/opened^$all
+||close.io/email_opened^$all
+||mailstat.us/tr^$all
+||emltrk.com^$image
+||via.intercom-mail-.com/o^$all
 
 #Ads & Trackers
 
