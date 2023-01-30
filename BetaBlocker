@@ -1,0 +1,74 @@
+###########################################################################################
+! Title: BetaBlocker (Medium+)
+! Expires: 3 days
+! Description: A more advanced list that may break websites. This is for me to test out, but feel free to use it if you want.
+! Homepage: https://github.com/CPYAY/UblockLists/
+# Last Update: 1/30/2023 6:38 AM EDT
+###########################################################################################
+
+#Tracking URLs
+*$removeparam=utm_source
+*$removeparam=utm_medium
+*$removeparam=utm_campaign
+*$removeparam=utm_content
+*$removeparam=utm_term
+
+#Common tracking endpoints
+/wf/open^$all
+/track/open.php^$all
+/ut.php^$all
+/trk^$all
+/links.*/oo/^$all
+/o.gif^$image
+
+#pixels
+bl-1.com^$all
+nytimes.com/pixel^$image
+open.convertkit*.com^$image
+t.signauxtrois.com^$all
+t.sidekickopen77.com^$all
+t.yesware.com^$all
+track.mixmax.com^$all
+email.mixmax.com^$all
+mailfoogae.appspot.com^$all
+nethunt.com/api/v1/track/email^$all
+toutapp.com^$all
+r.superhuman.com^$all
+outrch.com/api/mailings/opened^$all
+close.io/email_opened^$all
+mailstat.us/tr^$all
+emltrk.com^$image
+via.intercom-mail-.com/o^$all
+
+#Ads & Trackers
+
+||0nlinemeds.com^
+||1-2-money.com^
+||101com.com^
+||101order.com^
+||103092804.com^
+||123found.com^
+||123freeavatars.com^
+||17.network^
+||247adsnetwork.com^
+||247media.com^
+||247realmedia.com^
+||24log.com^
+||24log.de^
+||24pm-affiliation.com ^
+||2mdn.net^
+||2o7.net^
+||2znp09oa.com^
+||33across.com^
+||360yield.com^
+||3lift.com^
+||3stepads.com^
+||4affiliate.net^
+||4d5.net^
+||4info.com^
+||4jnzhl0d0.com^
+||50websads.com^
+||518ad.com^
+||51yes.com^
+||5mcwl.pw^
+||600z.com^
