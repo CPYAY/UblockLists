@@ -5,6 +5,9 @@
 ! Homepage: https://github.com/CPYAY/UblockLists/
 # Last Update: 1/30/2023 6:38 AM EDT
 ###########################################################################################
+#CDNs Allow (Streaming)
+
+
 
 #Tracking URLs
 *$removeparam=utm_source
@@ -40,8 +43,84 @@
 ||emltrk.com^$image
 ||via.intercom-mail-.com/o^$all
 
-#Ads & Trackers
+#Analytics
+||google-analytics.com^
+||analytics.map.qq.com^
+||analytics.metalocator.com^
+||analytics.mgid.com^
+||analytics.mobile.walmart.com^
+||analytics.mobile.yandex.net^
+||analytics.mopub.com^
+||analytics.moz.com^
+||analytics.msn.com^
+||analytics.msnbc.msn.com^
+||analytics.myfinance.com^
+||analytics.mytvzion.pro^
+||analytics.n7mobile.com^
+||analytics.nativeads.com^
+||analytics.nike.com^
+||analytics.ns1.ff.avast.com^
+||analytics.ooyala.com^
+||analytics.phando.com^
+||analytics.phoenixplatform.com.sg^
+||analytics.picsart.com^
+||analytics.pinterest.com^
+||analytics.po.st^
+||analytics.pointdrive.linkedin.com^
+||analytics.pokki.com^
+||analytics.poolshool.com^
+||analytics.posttv.com^
+||analytics.publitas.com^
+||analytics.query.yahoo.com^
+||analytics.r.msn.com^
+||analytics.rayjump.com^
+||analytics.readcube.com.herokudns.com^
+||analytics.reyrey.net^
+||analytics.rogersmedia.com^
+||analytics.s3.amazonaws.com^
+||analytics.salmonads.com^
+||analytics.samdd.me^
+||analytics.sayu.co.uk^
+||analytics.seattleclouds.com^
+||analytics.services.kirra.nl^
+||analytics.shareaholic.com^
+||analytics.siliconexpert.com^
+||analytics.slashdotmedia.com^
+||analytics.snssdk.com^
+||analytics.strangeloopnetworks.com^
+||analytics.strava.com^
+||analytics.swiggy.com^
+||analytics.tactilews.com^
+||analytics.tagular.com^
+||analytics.tapad.com^
+||analytics.tdameritrade.com^
+||analytics.tiltingpoint.io^
+||analytics.toast.com^
+||analytics.tout.com^
+||analytics.tresensa.com^
+||analytics.twitter.com^
+||analytics.usdm.net^
+||analytics.valuepotion.com^
+||analytics.vancms.net^
+||analytics.vendemore.com^
+||analytics.vodafone.co.uk^
+||analytics.webads.eu^
+||analytics.wildtangent.com^
+||analytics.yahoo.com^
+||analytics.yolacdn.net^
+||analytics.yomedia.vn^
+||analytics.yopify.com.herokudns.com^
+||analytics.youramigo.com^
+||analytics.zendesk.com^
+||analytics.zg-api.com^
+||analytics.ziftsolutions.com^
+||analytics02.metalocator.com^
+||analyticsapi.bsbportal.com^
+||analyticssl.clickpathmedia.com^
+||anycast.pixel.adsafeprotected.com^
+||youtrack.mgid.com^
 
+#Ads & Trackers
 ||0nlinemeds.com^
 ||1-2-money.com^
 ||101com.com^
@@ -72,3 +151,12 @@
 ||51yes.com^
 ||5mcwl.pw^
 ||600z.com^
+||advinci.uno^
+||amung.us^
+||apus.tech^
+||bebi.com^
+||bidgear.com^
+||evergreensame.com^
+||onesignal.com^
+||pushyfen.com^
+||revrtb.com^
